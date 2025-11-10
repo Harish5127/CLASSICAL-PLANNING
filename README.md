@@ -107,7 +107,7 @@ print(plan)
 ```
 ## Output:
 
-<img width="717" height="172" alt="image" src="https://github.com/user-attachments/assets/b222740f-87ef-4c91-8937-592d49dcbb23" />
+<img width="477" height="151" alt="image" src="https://github.com/user-attachments/assets/645cad50-ee06-4c96-a87d-f58302fdaea5" />
 
 ## Result:
 
